@@ -67,7 +67,7 @@ QuitCard is designed with privacy by design:
 
 ### Data Storage
 - All your quit cards, reasons, stamps, and milestones are stored locally on your device only
-- Your data never leaves your iPhone/iPad
+- Your data never leaves your iPhone
 - We cannot access, view, or retrieve any of your personal information
 - Your quit journey data is completely private to you
 
