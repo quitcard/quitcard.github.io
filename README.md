@@ -1,4 +1,4 @@
-# QuitCard - Your Personal Quit Journey Tracker
+# QuitCard - Turn your quitting journey into a stamping experience
 
 QuitCard helps you track and commit to quitting toxic jobs, relationships, or custom goals. Create a “quit card,” record your reasons, and mark progress with digital stamps as you work toward milestones.
 
