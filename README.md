@@ -83,7 +83,7 @@ QuitCard does not integrate with any third-party services that collect data.
 Any changes to this privacy policy will be reflected in app updates. Since we don't collect data, we cannot notify you directly of changes.
 
 ### Contact
-If you have questions about privacy, contact us at iamdesktopit@gmail.com
+If you have questions about privacy, contact us at [iamdesktopit@gmail.com](mailto:iamdesktopit@gmail.com)
 
 ---
 
@@ -126,7 +126,7 @@ A: Currently, QuitCard data is not backed up to iCloud. All data remains local t
 
 For technical issues, feature requests, or general questions:
 
-**Email**: iamdesktopit@gmail.com
+**Email**: [iamdesktopit@gmail.com](mailto:iamdesktopit@gmail.com)
 
 **Response Time**: We aim to respond to all inquiries within 48 hours.
 
@@ -141,16 +141,6 @@ We love hearing from our users! If you have ideas for new features or improvemen
 - A clear description of the requested feature
 - How you think it would improve your quit journey experience
 - Any specific use cases or examples
-
----
-
-## App Store
-
-**Requirements**: iOS 13.0 or later
-
-**Compatibility**: iPhone
-
-**Category**: Health & Fitness / Productivity
 
 ---
 
