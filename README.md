@@ -126,7 +126,7 @@ A: Currently, QuitCard data is not backed up to iCloud. All data remains local t
 
 For technical issues, feature requests, or general questions:
 
-**Email**: [your-email@example.com]
+**Email**: iamdesktopit@gmail.com
 
 **Response Time**: We aim to respond to all inquiries within 48 hours.
 
@@ -146,13 +146,9 @@ We love hearing from our users! If you have ideas for new features or improvemen
 
 ## App Store
 
-Download QuitCard on the [App Store](your-app-store-link)
-
 **Requirements**: iOS 13.0 or later
 
-**Compatibility**: iPhone, iPad
-
-**Size**: [App Size]
+**Compatibility**: iPhone
 
 **Category**: Health & Fitness / Productivity
 
@@ -160,4 +156,4 @@ Download QuitCard on the [App Store](your-app-store-link)
 
 *QuitCard - Turn your quitting journey into a stamping experience.*
 
-**Version**: 1.0,0 | **Last Updated**: [Date]
+**Version**: 1.0,0 | **Last Updated**: Sep 21, 2025
